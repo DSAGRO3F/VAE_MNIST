@@ -15,3 +15,5 @@ This is why VAEs are relevant in this type of context!
 Another interesting characteristic is that VAEs are generative models since they seek to reconstruct the input data from a few essential characteristics.
 From an input image, the model generates similar images which gradually, as training progresses, “deviate” from the input image to “marry” the contours of another image whose distribution is close.
 - [espace latent](https://github.com/DSAGRO3F/VAE_MNIST/blob/main/rep_espace_latent_tsne)
+- [input to VAE encoder](https://drive.google.com/file/d/1vYZL4uWromupWsjjizf5Ja8jtev1hsgB/view?usp=drive_link)
+- [output from VAE decoder](https://drive.google.com/file/d/1W_-V5tk4TYbYmuquczgfmBYIYuEm4qeo/view?usp=drive_link)
